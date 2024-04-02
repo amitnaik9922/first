@@ -11,7 +11,7 @@ void add_book_to_db(struct addbook b)
 
 	fclose(fptr);
 	
-	printf("Data has been saved...\n");
+	printf("Data has been saved.......\n");
 
 
 }
